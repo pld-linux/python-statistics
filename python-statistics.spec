@@ -2,7 +2,7 @@ Summary:	Mathematical statistics functions
 Summary(pl.UTF-8):	Matematyczne funkcje statystyczne
 Name:		python-statistics
 Version:	1.0.3.5
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/statistics/
